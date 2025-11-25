@@ -477,6 +477,6 @@ pyenv version
 - [Poetry 공식 문서](https://python-poetry.org/docs/)
 - [pyenv-win GitHub](https://github.com/pyenv-win/pyenv-win)
 - [LangChain 공식 문서](https://python.langchain.com/docs/introduction/)
-
+- [wikidocs](https://wikidocs.net/233345)
 ---
 
